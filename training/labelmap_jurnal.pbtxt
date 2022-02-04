@@ -1,0 +1,249 @@
+item {
+  id: 1
+  name: 'aluterus_scriptus'
+}
+
+item {
+  id: 2
+  name: 'amanses_scopas'
+}
+
+item {
+  id: 3
+  name: 'anyperodon_leucogrammicus'
+}
+
+item {
+  id: 4
+  name: 'aphareus_furca'
+}
+
+item {
+  id: 5
+  name: 'bodianus_anthioides'
+}
+
+item {
+  id: 6
+  name: 'bodianus_diana'
+}
+
+item {
+  id: 7
+  name: 'bothus_pantherinus'
+}
+
+item {
+  id: 8
+  name: 'cantherhines_dumerilii'
+}
+
+item {
+  id: 9
+  name: 'caranx_melampygus'
+}
+
+item {
+  id: 10
+  name: 'cephalopholis_sexmaculata'
+}
+
+item {
+  id: 11
+  name: 'cheilinus_chlorourus'
+}
+
+item {
+  id: 12
+  name: 'cheilio_inermis'
+}
+
+item {
+  id: 13
+  name: 'choerodon_fasciatus'
+}
+
+item {
+  id: 14
+  name: 'cirrhilabrus_cyanopleura'
+}
+
+item {
+  id: 15
+  name: 'cirrhilabrus_scottorum'
+}
+
+item {
+  id: 16
+  name: 'coris_batuensis'
+}
+
+item {
+  id: 17
+  name: 'elagatis_bipinnulata'
+}
+
+item {
+  id: 18
+  name: 'epinephelus_areolatus'
+}
+
+item {
+  id: 19
+  name: 'gnathanodon_speciosus'
+}
+
+item {
+  id: 20
+  name: 'gracila_albomarginata'
+}
+
+item {
+  id: 21
+  name: 'halichoeres_hortulanus'
+}
+
+item {
+  id: 22
+  name: 'halichoeres_melanurus'
+}
+
+item {
+  id: 23
+  name: 'halichoeres_scapularis'
+}
+
+item {
+  id: 24
+  name: 'hemigymnus_fasciatus'
+}
+
+item {
+  id: 25
+  name: 'hologymnosus_annulatus'
+}
+
+item {
+  id: 26
+  name: 'labroides_dimidiatus'
+}
+
+item {
+  id: 27
+  name: 'leptojulis_cyanopleura'
+}
+
+item {
+  id: 28
+  name: 'lethrinus_microdon'
+}
+
+item {
+  id: 29
+  name: 'lethrinus_obsoletus'
+}
+
+item {
+  id: 30
+  name: 'lutjanus_argentimaculatus'
+}
+
+item {
+  id: 31
+  name: 'lutjanus_carponotatus'
+}
+
+item {
+  id: 32
+  name: 'lutjanus_russellii'
+}
+
+item {
+  id: 33
+  name: 'monotaxis_grandoculis'
+}
+
+item {
+  id: 34
+  name: 'oxycheilinus_bimaculatus'
+}
+
+item {
+  id: 35
+  name: 'oxymonacanthus_longirostris'
+}
+
+item {
+  id: 36
+  name: 'p1rozcz'
+}
+
+item {
+  id: 37
+  name: 'paraluteres_prionurus'
+}
+
+item {
+  id: 38
+  name: 'plectropomus_laevis'
+}
+
+item {
+  id: 39
+  name: 'pseudanthias_hypselosoma'
+}
+
+item {
+  id: 40
+  name: 'pseudanthias_ventralis'
+}
+
+item {
+  id: 41
+  name: 'pseudocheilinus_hexataenia'
+}
+
+item {
+  id: 42
+  name: 'pseudodax_moluccanus'
+}
+
+item {
+  id: 43
+  name: 'scolopsis_bilineata'
+}
+
+item {
+  id: 44
+  name: 'stethojulis_bandanensis'
+}
+
+item {
+  id: 45
+  name: 'stethojulis_interrupta'
+}
+
+item {
+  id: 46
+  name: 'thalassoma_amblycephalum'
+}
+
+item {
+  id: 47
+  name: 'thalassoma_lutescens'
+}
+
+item {
+  id: 48
+  name: 'thalassoma_purpureum'
+}
+
+item {
+  id: 49
+  name: 'variola_albimarginata'
+}
+
+item {
+  id: 50
+  name: 'variola_louti'
+}
